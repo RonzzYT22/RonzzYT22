@@ -54,8 +54,9 @@ Karena sebagian besar proyek saya bersifat komersial dan digunakan untuk klien/p
 *(Statistik di bawah ini mencakup kontribusi dari repositori Private)*
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=RonzzYT22&count_private=true&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=RonzzYT22&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ronzz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonzzYT22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonzzYT22&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
