@@ -58,8 +58,8 @@ Karena sebagian besar proyek saya bersifat komersial dan digunakan untuk klien/p
 </p>
 
 <p align="center">
-  <img src="https://stats-iocwol1f7-ronzzz837s-projects.vercel.app/api?username=RonzzYT22&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ronzz's GitHub Stats" />
-  <img src="https://stats-iocwol1f7-ronzzz837s-projects.vercel.app/api/top-langs/?username=RonzzYT22&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://stats-ronzzz837s-projects.vercel.app/api?username=RonzzYT22&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ronzz's GitHub Stats" />
+  <img src="https://stats-ronzzz837s-projects.vercel.app/api/top-langs/?username=RonzzYT22&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
